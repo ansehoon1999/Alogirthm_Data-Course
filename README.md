@@ -6,6 +6,11 @@
 # 👥 데이트 코스 최단거리 및 추천 서비스 👥 
 (2-2 Alogrithm Term-Project)
 
+![image](https://user-images.githubusercontent.com/63048392/188260001-b6d12b0b-f981-4ec5-994e-a90ba6d266ba.png)
+![image](https://user-images.githubusercontent.com/63048392/188260008-492e1770-0c55-4455-b473-5847bfc9c2ab.png)
+
+
+
 ## 데이트 코스 최단 거리 서비스
 ##### 1. 메뉴 창에서 원하는 장소 선택
 ##### 2. 원하는 서울 '구' 클릭
