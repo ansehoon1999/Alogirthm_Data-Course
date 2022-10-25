@@ -1,8 +1,3 @@
-
-![Layer 0](https://user-images.githubusercontent.com/79246447/188307030-07c28d63-1f75-49bc-bdf5-cbdc5530d0e7.png)
-
-![Layer 2](https://user-images.githubusercontent.com/79246447/188307147-6c7de859-b03f-4936-ae8a-70cf5f9e94c8.png)
-
 # 👥 데이트 코스 최단거리 및 추천 서비스 👥 
 (2-2 Alogrithm Term-Project)
 
